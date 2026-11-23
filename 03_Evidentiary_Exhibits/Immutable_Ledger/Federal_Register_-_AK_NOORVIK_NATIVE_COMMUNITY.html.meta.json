@@ -1,0 +1,17 @@
+{
+  "url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=AK+NOORVIK+NATIVE+COMMUNITY",
+  "final_url": "https://www.federalregister.gov/documents/search?conditions%5Bsearch_type_id%5D=3&conditions%5Bterm%5D=AK+NOORVIK+NATIVE+COMMUNITY",
+  "title": "Federal Register - AK NOORVIK NATIVE COMMUNITY",
+  "fetched_at": "2026-11-23T17:24:28.774395Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 207872,
+  "sha256": "1c1ebd9ac1d69fc45230b25ce05dd86f1bce2069ca9ce740b173242b567c9d4c",
+  "provenance": "direct-http-fetch",
+  "custodian": "GRA-evidence-harvester",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "note": "Direct harvest capture; pending legal review/authentication.",
+  "substantive": true,
+  "quality_flag": "SUBSTANTIVE_CAPTURE_PENDING_REVIEW"
+}
